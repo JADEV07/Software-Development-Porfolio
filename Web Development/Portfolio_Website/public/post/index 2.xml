@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on John Amores</title>
+    <link>https://JADEV07.github.io/Portfolio_Website/post/</link>
+    <description>Recent content in Projects on John Amores</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://JADEV07.github.io/Portfolio_Website/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Analyze International Debt Statistics</title>
+      <link>https://JADEV07.github.io/Portfolio_Website/post/project-4/</link>
+      <pubDate>Fri, 01 Jul 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://JADEV07.github.io/Portfolio_Website/post/project-4/</guid>
+      <description>In this notebook, I analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. I am going to find the answers to questions like:
+What is the total amount of debt that is owed by the countries listed in the dataset? Which country owns the maximum amount of debt and what does that amount look like?</description>
+    </item>
+    
+    <item>
+      <title>Project 3: ASL Recoginition with Deep Learning</title>
+      <link>https://JADEV07.github.io/Portfolio_Website/post/project-3/</link>
+      <pubDate>Thu, 30 Jun 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://JADEV07.github.io/Portfolio_Website/post/project-3/</guid>
+      <description>A lot of recent progress has been made towards developing computer vision systems that translate sign language to spoken language. This technology often relies on complex neural network architectures that can detect subtle patterns in streaming video. However, as a first step, towards understanding how to build a translation system, we can reduce the size of the problem by translating individual letters, instead of sentences.
+In this notebook, I will demo how to train a convolutional neural network to classify images of American Sign Language (ASL) letters.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Exploratory Data Analysis of Real World Sales data</title>
+      <link>https://JADEV07.github.io/Portfolio_Website/post/project-2/</link>
+      <pubDate>Mon, 11 Apr 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://JADEV07.github.io/Portfolio_Website/post/project-2/</guid>
+      <description>For this example project I was given a set of task for a business scenario.
+I use Python Pandas &amp;amp; Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
+This explores 5 high level business questions related to the data:
+What was the best month for sales?</description>
+    </item>
+    
+    <item>
+      <title>Project 1: C02 Emissions Dashboard</title>
+      <link>https://JADEV07.github.io/Portfolio_Website/post/project-1/</link>
+      <pubDate>Thu, 09 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://JADEV07.github.io/Portfolio_Website/post/project-1/</guid>
+      <description>Created a tool to visualize the carbon dioxide emmissions and its effects on climate change. Takes in data from the OWID C02 Data from github Using libraries such as numpy and pandas; created dataframes to organize the data in plots for the dashboard template Created charts to display data. Created a dashboard using the &amp;ldquo;hvplot&amp;rdquo; and panel to create the visualization. Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
