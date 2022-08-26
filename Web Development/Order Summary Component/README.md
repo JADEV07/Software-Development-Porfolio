@@ -1,4 +1,6 @@
-# tutorial-order-summary-component
+# order-summary-component
 
-[App here.](https://madisonkanna.github.io/tutorial-order-summary-component/)
+A simple order summary component using HTML and CSS.
+
+[App here.]
 
